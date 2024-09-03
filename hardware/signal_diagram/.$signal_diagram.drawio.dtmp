@@ -232,7 +232,7 @@
         <mxCell id="vGbGUn3wl-9Z1JBGlTTH-10" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="vGbGUn3wl-9Z1JBGlTTH-8" vertex="1">
           <mxGeometry x="50" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vGbGUn3wl-9Z1JBGlTTH-11" value="14 GPIOs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vGbGUn3wl-9Z1JBGlTTH-8" vertex="1">
+        <mxCell id="vGbGUn3wl-9Z1JBGlTTH-11" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;14 GPIOs&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vGbGUn3wl-9Z1JBGlTTH-8" vertex="1">
           <mxGeometry x="12.5" y="50" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vGbGUn3wl-9Z1JBGlTTH-12" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
